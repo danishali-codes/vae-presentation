@@ -11,7 +11,7 @@
 // VERSION is rewritten by tools/stamp_site.py whenever any site file changes (models and data
 // have a content hash in their names, so a hash of data/files.json covers them).
 
-const VERSION = "654436732a1d";
+const VERSION = "e35d2d3f31b1";
 const CACHE = `cats-${VERSION}`;
 const BIG = /^(models|data)\/|\.wasm$/;
 

@@ -1,6 +1,6 @@
 {
- "version": "654436732a1d",
- "total_bytes": 75126935,
+ "version": "e35d2d3f31b1",
+ "total_bytes": 75126902,
  "files": [
   {
    "path": "404.html",
@@ -16,7 +16,7 @@
   },
   {
    "path": "css/explainers.css",
-   "bytes": 9292
+   "bytes": 9251
   },
   {
    "path": "css/fonts.css",
@@ -180,7 +180,7 @@
   },
   {
    "path": "index.html",
-   "bytes": 53750
+   "bytes": 53758
   },
   {
    "path": "js/anim.js",
