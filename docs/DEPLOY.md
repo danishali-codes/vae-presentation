@@ -39,7 +39,7 @@ manual DNS record.
 Create an empty repository named `vae-presentation` on GitHub (no README, no .gitignore), then:
 
 ```bash
-git remote add origin https://github.com/Danish12196/vae-presentation.git
+git remote add origin https://github.com/danishali-codes/vae-presentation.git
 ```
 
 ```bash

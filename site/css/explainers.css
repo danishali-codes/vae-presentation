@@ -4,7 +4,7 @@
 
 /* ================================================================ analogy chip */
 
-/* A short "think of it as" line beside the title. The spoken version is in docs/script.md.
+/* A short "think of it as" line beside the title.
    Phones hide it: the demos need the room. */
 .slide-head:has(> .analogy) {
   display: grid;
